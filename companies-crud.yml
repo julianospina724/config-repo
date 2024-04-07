@@ -1,4 +1,4 @@
 db:
-  url: jdbc:postgresql://host-gateway:5432/db_companies
+  url: jdbc:postgresql://localhost:5432/db_companies
   username: postgres
   password: megasys.123
